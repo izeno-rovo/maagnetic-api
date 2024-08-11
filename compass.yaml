@@ -7,7 +7,7 @@ ownerId: 'ari:cloud:identity::team/4b9a32fa-251d-4df8-9564-9b38b876f716'
 fields:
   tier: 4
 links:
-  - name: null
+  - name: maagnetic-api
     type: REPOSITORY
     url: 'https://github.com/izeno-rovo/maagnetic-api'
 relationships: {}
